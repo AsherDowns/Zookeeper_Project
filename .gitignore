@@ -1,0 +1,34 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Zookeeper (Java)/*
+!/Zookeeper (Java)/task/
+/Zookeeper (Java)/task/*
+!/Zookeeper (Java)/task/src
+
+# Project exclude paths
+/Topics/Conditional statement/Leap year/out/
+/Topics/Conditional statement/Leap year/out/production/classes/
+/Topics/Integer types and operations/Arithmetic expression/out/
+/Topics/Integer types and operations/Arithmetic expression/out/production/classes/
+/Topics/Integer types and operations/Good rest on vacation/out/
+/Topics/Integer types and operations/Good rest on vacation/out/production/classes/
+/Topics/Integer types and operations/Next even number/out/
+/Topics/Integer types and operations/Next even number/out/production/classes/
+/Topics/Primitive and reference types/Creating a reference type/out/
+/Topics/Primitive and reference types/Creating a reference type/out/production/classes/
+/Topics/Relational operators/Boys in a sport class/out/
+/Topics/Relational operators/Boys in a sport class/out/production/classes/
+/Topics/Relational operators/Is between/out/
+/Topics/Relational operators/Is between/out/production/classes/
+/Topics/The while and do-while loops/The sum of elements/out/
+/Topics/The while and do-while loops/The sum of elements/out/production/classes/
